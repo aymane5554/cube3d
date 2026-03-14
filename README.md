@@ -1,10 +1,11 @@
 # cub3D
 
+> [!NOTE]  
+> **This repository is forked from a group project I contributed to, where I implemented the raycasting part: [original group project repository](https://github.com/Abouraouf/cub).**
+
 A lightweight Wolfenstein-like raycasting engine written in C using MiniLibX.
 
 This project parses a `.cub` configuration file (textures, colors, and map), validates it, then renders a textured 3D scene in real time.
-
-This repository is forked from a group project I participated in, where I implemented the raycasting part: [original group project repository](https://github.com/Abouraouf/cub).
 
 ## Features
 
